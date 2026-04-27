@@ -8,7 +8,7 @@
     <link>https://danielzarovy.github.io/Castify/</link>
     <description>AI-narrated podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2026 17:15:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 17:31:45 +0000</lastBuildDate>
     <atom:link href="https://danielzarovy.github.io/Castify/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Daniel Zarovy</itunes:author>
     <itunes:summary>AI-narrated podcast feed.</itunes:summary>
@@ -18,5 +18,15 @@
       <itunes:name>Daniel Zarovy</itunes:name>
     </itunes:owner>
     <itunes:image href="https://raw.githubusercontent.com/danielzarovy/Castify/main/cover.png"/>
+    <item>
+      <title>The Cloakroom - Test</title>
+      <description>AI-narrated podcast feed.</description>
+      <pubDate>Mon, 27 Apr 2026 17:31:45 +0000</pubDate>
+      <enclosure url="https://github.com/danielzarovy/Castify/releases/download/ep-20260427173140-the-cloakroom-test/castify-publish-4a0e98ca-a705-42f4-949c-18b3707b903e.mp3" length="1952331" type="audio/mpeg"/>
+      <guid isPermaLink="false">707135ec-2a77-45d4-bc69-88cf9412ad83</guid>
+      <itunes:author>Daniel Zarovy</itunes:author>
+      <itunes:duration>02:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
