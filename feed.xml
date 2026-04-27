@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Castify</title>
+    <link>https://danielzarovy.github.io/Castify/</link>
+    <description>AI-narrated podcast feed.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Apr 2026 17:15:02 +0000</lastBuildDate>
+    <atom:link href="https://danielzarovy.github.io/Castify/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Daniel Zarovy</itunes:author>
+    <itunes:summary>AI-narrated podcast feed.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:owner>
+      <itunes:name>Daniel Zarovy</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://raw.githubusercontent.com/danielzarovy/Castify/main/cover.png"/>
+  </channel>
+</rss>
