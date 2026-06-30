@@ -2,16 +2,22 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
   <channel>
     <title>Castify</title>
     <link>https://danielzarovy.github.io/Castify/</link>
     <description>AI-narrated podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2026 20:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 07:05:03 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 07:05:03 +0000</pubDate>
+    <ttl>60</ttl>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
     <atom:link href="https://danielzarovy.github.io/Castify/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Daniel Zarovy</itunes:author>
     <itunes:summary>AI-narrated podcast feed.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:owner>
@@ -27,46 +33,8 @@
       <itunes:author>Daniel Zarovy</itunes:author>
       <itunes:duration>25:25</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>A diary, a camera, a typewriter, and a clipboard</title>
-      <description>Empire ranch podcast created for Greg</description>
-      <pubDate>Tue, 28 Apr 2026 22:33:44 +0000</pubDate>
-      <enclosure url="https://github.com/danielzarovy/Castify/releases/download/import-20260428223330-a-diary-a-camera-a-typewriter-and-a-clip/A.diary.a.camera.a.typewriter.and.a.clipboard.m4a" length="29161405" type="audio/mp4"/>
-      <guid isPermaLink="false">b47840ea-6145-4342-8e04-a8bb9cf37525</guid>
-      <itunes:author>Daniel Zarovy</itunes:author>
-      <itunes:duration>30:03</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Vibes Per Token v3 Apr 27 2026</title>
-      <description>AI-narrated podcast feed.</description>
-      <pubDate>Tue, 28 Apr 2026 02:42:24 +0000</pubDate>
-      <enclosure url="https://github.com/danielzarovy/Castify/releases/download/ep-20260428024211-vibes-per-token-v3-apr-27-2026/castify-publish-85c044b3-b7e3-4041-9bff-b1af9308feca.mp3" length="23475137" type="audio/mpeg"/>
-      <guid isPermaLink="false">cd3d412e-c20a-4461-bbba-cff203578cf2</guid>
-      <itunes:author>Daniel Zarovy</itunes:author>
-      <itunes:duration>24:27</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>The Cloakroom Apr 27 2026</title>
-      <description>AI-narrated podcast feed.</description>
-      <pubDate>Mon, 27 Apr 2026 18:00:58 +0000</pubDate>
-      <enclosure url="https://github.com/danielzarovy/Castify/releases/download/ep-20260427180046-the-cloakroom-apr-27-2026/castify-publish-89e4a431-7ed1-4d4c-b3a7-28fd213e2dd3.mp3" length="21023808" type="audio/mpeg"/>
-      <guid isPermaLink="false">7d08ff32-2354-4e44-84d5-34e2f3e87553</guid>
-      <itunes:author>Daniel Zarovy</itunes:author>
-      <itunes:duration>21:54</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>The Cloakroom - Test</title>
-      <description>AI-narrated podcast feed.</description>
-      <pubDate>Mon, 27 Apr 2026 17:31:45 +0000</pubDate>
-      <enclosure url="https://github.com/danielzarovy/Castify/releases/download/ep-20260427173140-the-cloakroom-test/castify-publish-4a0e98ca-a705-42f4-949c-18b3707b903e.mp3" length="1952331" type="audio/mpeg"/>
-      <guid isPermaLink="false">707135ec-2a77-45d4-bc69-88cf9412ad83</guid>
-      <itunes:author>Daniel Zarovy</itunes:author>
-      <itunes:duration>02:02</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
     </item>
   </channel>
 </rss>
