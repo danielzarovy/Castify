@@ -9,8 +9,8 @@
     <link>https://danielzarovy.github.io/Castify/</link>
     <description>AI-narrated podcast feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 07:05:03 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jun 2026 07:05:03 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2026 16:17:28 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 16:17:28 +0000</pubDate>
     <ttl>60</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -24,17 +24,6 @@
       <itunes:name>Daniel Zarovy</itunes:name>
     </itunes:owner>
     <itunes:image href="https://raw.githubusercontent.com/danielzarovy/Castify/main/cover.png"/>
-    <item>
-      <title>Vibes Per Token v3 May 1 2026</title>
-      <description>AI-narrated podcast feed.</description>
-      <pubDate>Fri, 01 May 2026 20:19:45 +0000</pubDate>
-      <enclosure url="https://github.com/danielzarovy/Castify/releases/download/ep-20260501201930-vibes-per-token-v3-may-1-2026/castify-publish-666051b2-bde2-4928-837e-175996a26632.mp3" length="24401753" type="audio/mpeg"/>
-      <guid isPermaLink="false">29544983-0bb7-422b-94e3-bb55fa324fea</guid>
-      <itunes:author>Daniel Zarovy</itunes:author>
-      <itunes:duration>25:25</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>1</itunes:episode>
-    </item>
+
   </channel>
 </rss>
